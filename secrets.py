@@ -1,0 +1,5 @@
+API_KEY = "AKIAIOSFODNN7EXAMPLE"
+
+SECRET_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCMEKE"
+
+password = "1234SuperSecreto"
