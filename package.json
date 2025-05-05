@@ -1,0 +1,41 @@
+{
+
+  "name": "test_keys",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "scripts": {
+
+    "test": "echo \rror no test specified\  exit 1
+
+  ,
+
+  repository" 
+
+    type git,
+
+    url https//github.com/trufflesecurity/testkeys.git
+
+  ,
+
+  keywords [
+
+    trufflehog
+
+  ],
+
+  author trufflesecurity,
+
+  license ,
+
+  bugs 
+
+    url https//github.com/trufflesecurity/testkeys/issues
+
+  ,
+
+  homepage https//github.com/trufflesecurity/testkeys
+
+
